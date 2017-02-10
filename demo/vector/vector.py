@@ -1,5 +1,5 @@
 '''
-class represents vector
+defination of vector
 '''
 
 
